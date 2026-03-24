@@ -8,7 +8,7 @@ A [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin 
 - Switch counter resets automatically at the start of each round
 
 ## Configuration
-A `config.json` file is automatically created in the plugin directory on first load.
+A `config.json` file is automatically created in `configs/plugins/LimitTeamChange/` on first load.
 
 | Field | Description |
 |---|---|
